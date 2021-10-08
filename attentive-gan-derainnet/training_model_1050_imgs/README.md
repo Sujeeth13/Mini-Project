@@ -1,1 +1,1 @@
-This model was trained on 1050 images on 100 epochs.
+This model was trained on 1050 images from the OTS dehazing dataset from Kaggle on 100 epochs.
