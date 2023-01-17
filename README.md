@@ -1,4 +1,4 @@
-##Image dehazing in CCTV cameras:  
+Image dehazing in CCTV cameras:  
 
 • Approached the problem using an Attentive Generative Adversarial Network.  
 
